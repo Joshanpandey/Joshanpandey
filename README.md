@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Joshanpandey
-- 👀 I’m interested in Coding and in Cybersecurity
-- 🌱 I’m currently studing Master's in Information Systems
+- 👀 I’m interested in Coding and in Cybersecurity.
+- 🌱 I’m currently studing Master's in Information Systems.
 - 💞️ I’m looking to collaborate on learn coding...
-- 📫 How to reach me. Let's connect via email, github.
-- 🗒️
+- 📫 Let's connect via email, github and Linkedln.
+- 🗒️  Microsoft Learn Student Ambassador 2024.
 
 <!---
 Joshanpandey/Joshanpandey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
