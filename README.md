@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joshanpandey
-- 👀 I’m interested in Coding and in Cybersecurity.
+- 👀 I’m interested in Programming and Cybersecurity.
 - 🌱 I’m currently studing Master's in Information Systems.
 - 💞️ I’m looking to collaborate on learn coding...
 - 📫 Let's connect via email, github and Linkedln.
